@@ -4,7 +4,7 @@
 Este repositório contém o portfólio profissional de Gabriel Lopes, desenvolvido como parte das atividades práticas da disciplina Design Profissional do curso de Análise e Desenvolvimento de Sistemas. O site foi construído para apresentar de forma limpa, responsiva e estruturada a trajetória acadêmica, competências técnicas e os principais projetos desenvolvidos.
 
 ## Objetivos
-O objetivo principal deste projeto é consolidar os conhecimentos em desenvolvimento web front-end utilizando HTML5 e CSS3 puro, criando uma vitrine profissional acessível na internet para destacar habilidades de programação e projetos práticos.
+O objetivo principal deste projeto é consolidar os conhecimentos em desenvolvimento web front-end utilizando HTML e CSS puro, criando uma vitrine profissional acessível na internet para destacar habilidades de programação e projetos práticos.
 
 ## Técnologia utilizadas
 - HTML (com marcação semântica e links de navegação interna)
