@@ -18,7 +18,6 @@ portfolio-profissional/
 ├── README.md
 ├── LICENSE
 └── assets/
-    ├── foto-perfil.jpg
     ├── projeto-01.png
     ├── projeto-02.png
     └── curriculo.pdf
