@@ -32,8 +32,7 @@ portfolio-profissional/
 *(Espaço reservado para capturas de tela das aplicações desenvolvidas)*
 
 ## Como acessar
-Você pode acessar o portfólio online publicado através do link:
-[INSERIR LINK DO GITHUB PAGES APÓS A PUBLICAÇÃO]
+Você pode acessar o portfólio online publicado através do link do GitHub Pages (o endereço será inserido após a Etapa 11).
 
 ## Como executar localmente
 1. Clone este repositório em sua máquina:
