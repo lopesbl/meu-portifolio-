@@ -6,12 +6,12 @@ Este repositório contém o portfólio profissional de Gabriel Lopes, desenvolvi
 ## Objetivos
 O objetivo principal deste projeto é consolidar os conhecimentos em desenvolvimento web front-end utilizando HTML5 e CSS3 puro, criando uma vitrine profissional acessível na internet para destacar habilidades de programação e projetos práticos.
 
-## Tecnologias utilizadas
-- HTML5 (com marcação semântica e links de navegação interna)
-- CSS3 (estilização customizada com variáveis, Flexbox e foco em responsividade)
+## Técnologia utilizadas
+- HTML (com marcação semântica e links de navegação interna)
+- CSS (estilização customizada com variáveis, Flexbox e foco em responsividade)
 - GitHub Pages (para hospedagem e publicação online)
 
-## Estrutura do portfólio
+## Estrutura do portifólio
 portfolio-profissional/
 ├── index.html
 ├── estilo.css
