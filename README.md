@@ -36,4 +36,4 @@ Você pode acessar o portfólio online publicado através do link do GitHub Page
 ## Como executar localmente
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://lopesbl.github.io/meu-portifolio-/
+   git clone https://lopesbl.github.io/meu-portifolio/
